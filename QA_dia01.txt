@@ -1,0 +1,27 @@
+Desafio dia 01 - Site Seu Barriga
+
+Pagina do Login -
+Sugestões: 
+1 - Existir alguma opção para ajudar o usuario a recuperar os dados cadastrados no site.
+2 - Colocar uma identidade visual no site para chamar o cliente para se cadastrar e utiliza-lo. 
+Erros: 
+1 - Informar ao usuario quando o email colocado no campo "email" não estiver cadastrado 
+
+Novo Usuário -
+Erros: 
+1 - O uso de email inexistente no cadastro está ocorrendo e sendo aceito pelo site. 
+2 - O nome do usuario e a senha estão sendo aceitos com apenas um caractere. 
+3 - Não existe autenticação da conta quando criada, para poder utilizar os serviços do site. 
+Sugestões:  
+1 - Colocar um numero minimo de caracteres no campo "Nome", para obter melhores informações dos usuarios 
+2 - Enviar um codigo ou algum tipo de validação para o email cadastrado para o cliente poder validar e utlizar a sua conta.
+3 - No campo "Senha" exigir que sejam colocados, numeros, letras maiusculas, letras minusculas e simbolos. Para aumentar a segurança da conta
+
+Movimentação do Site -
+Sugestões: 
+1 - Melhorar a identidade visual do site
+2 - Na opcção de informar movimentações exigir um valor minimo para informar a despesa, esta aceitando o valor 0. 
+3 - Em "Criar Movimentação", ao colocar as datas é exigido o formato padrão para que seja aceito, seria interessante que quando o usuario preencher o campo com a data ela ja 
+ficasse no formato exigido.  
+4 - Exigir uma senha ou algum medida de segurança para que alguma movimentação possa ser visualizada ou editada, para aumentar a segurança do usuario. 
+   
